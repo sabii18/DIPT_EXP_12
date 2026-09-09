@@ -104,7 +104,19 @@ else:
 
 ## OUTPUT:
 
-<img width="1055" height="1080" alt="Screenshot 2026-09-06 213936" src="https://github.com/user-attachments/assets/f3c70d9d-1cc7-48e6-9a83-c847a876b223" />
+<img width="507" height="546" alt="image" src="https://github.com/user-attachments/assets/2afbbe3f-4b54-4ab4-890d-899bd71127f1" />
+<img width="408" height="512" alt="image" src="https://github.com/user-attachments/assets/bb573c3e-016b-456f-9cdb-a32d3315e014" />
+
+
+<img width="677" height="312" alt="image" src="https://github.com/user-attachments/assets/ce30f60e-49f4-4137-a497-9db901e5a8bc" />
+
+<img width="656" height="311" alt="image" src="https://github.com/user-attachments/assets/d16aea48-4e55-444a-955a-9309a6a0ed05" />
+
+
+<img width="667" height="307" alt="image" src="https://github.com/user-attachments/assets/5f80c9e4-fd72-426e-a687-69c4a91234e9" />
+<img width="408" height="501" alt="image" src="https://github.com/user-attachments/assets/952be939-3368-49a6-ba2f-7957009f606d" />
+
+
 
 
 ## RESULT:
